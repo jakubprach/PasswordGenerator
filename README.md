@@ -2,4 +2,4 @@
 <br/>
 Aktualnie tylko w języku polskim.
 
-https://j3ba76.pythonanywhere.com/
+https://whispering-tundra-54870.herokuapp.com/
