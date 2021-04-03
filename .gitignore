@@ -1,0 +1,7 @@
+.vscode
+.env
+env/
+Procfile
+requirements.txt
+settings.py
+db.sqlite3
