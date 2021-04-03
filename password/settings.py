@@ -25,7 +25,7 @@ SECRET_KEY = '$)*!4ownl(lmyuune&ol2n4p=oi3ei1chn81a-%7@$(o--l1&v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['heroku logs --tail, '0.0.0.0']
+ALLOWED_HOSTS = ['whispering-tundra-54870.herokuapp.com', '0.0.0.0']
 
 
 # Application definition
