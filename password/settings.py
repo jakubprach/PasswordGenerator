@@ -25,7 +25,7 @@ SECRET_KEY = '$)*!4ownl(lmyuune&ol2n4p=oi3ei1chn81a-%7@$(o--l1&v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['whispering-tundra-54870.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['whispering-tundra-54870.herokuapp.com', '0.0.0.0']
 
 
 # Application definition
@@ -76,8 +76,12 @@ WSGI_APPLICATION = 'password.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'd8rsd3s2gmljrm',
+        "HOST": 'ec2-18-214-208-89.compute-1.amazonaws.com',
+        "PORT": 5432,
+        "USER": 'fblnvxrfufgfxn',
+        "PASSWORD": '46bd2907a6468a12061d2ab01e539f497cad3991633867302ec8964ec9cba601'
     }
 }
 
