@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-Currently the website is in Polish.
+Currently the website is only available in Polish.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
