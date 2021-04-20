@@ -15,6 +15,7 @@
 Currently the website is only available in Polish.
 
 ## Screenshots
+![Example screenshot](./screen2.png)
 ![Example screenshot](./screen1.png)
 
 ## Technologies
