@@ -17,8 +17,8 @@ Currently the website is only available in Polish.
 ## Screenshots
 <p align="center">
   <img src="https://raw.githubusercontent.com/jakubprach/password-generator/main/screen2.png">
+  <img src="https://raw.githubusercontent.com/jakubprach/password-generator/main/screen1.png">
 </p>
-![Example screenshot](./screen1.png)
 
 ## Technologies
 * Django - version 3.0
