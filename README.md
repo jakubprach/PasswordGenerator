@@ -15,6 +15,9 @@
 Currently the website is only available in Polish.
 
 ## Screenshots
+<p align="center">
+  ![Example screenshot](./screen2.png)
+</p>
 ![Example screenshot](./screen2.png)
 ![Example screenshot](./screen1.png)
 
