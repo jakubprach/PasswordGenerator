@@ -1,5 +1,5 @@
-# Project Name
-> Here goes your awesome project description!
+# Password Generator
+> A simple website to generate random passwords
 
 ## Table of contents
 * [General info](#general-info)
