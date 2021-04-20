@@ -16,7 +16,7 @@ Currently the website is only available in Polish.
 
 ## Screenshots
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/jakubprach/password-generator/main/screen2.png">
+  <img src="https://raw.githubusercontent.com/jakubprach/password-generator/main/screen2.png">
 </p>
 ![Example screenshot](./screen1.png)
 
