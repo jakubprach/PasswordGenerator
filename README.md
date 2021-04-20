@@ -12,18 +12,18 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Currently the website is in Polish.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Django - version 3.0
+* Python - version 3.8
+* HTML, CSS
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+https://whispering-tundra-54870.herokuapp.com/
 
 ## Code Examples
 Show examples of usage:
@@ -31,19 +31,16 @@ Show examples of usage:
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* You can choose the length of generated password
+* You can specify whether to add uppercase, special or numeric characters
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Add english version of the website
+
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _in progress_
 
-## Inspiration
-Add here credits. Project inspired by..., based on...
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@jakubprach](http://github.com/jakubprach/) - feel free to contact me!
