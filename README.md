@@ -15,7 +15,7 @@
 Currently the website is only available in Polish.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./screen1.png)
 
 ## Technologies
 * Django - version 3.0
