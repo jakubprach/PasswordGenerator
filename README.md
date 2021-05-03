@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Live](#live)
 * [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
@@ -24,12 +24,9 @@ Currently the website is only available in Polish.
 * Python - version 3.8
 * HTML, CSS
 
-## Setup
+## Live
 https://whispering-tundra-54870.herokuapp.com/
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
 
 ## Features
 List of features ready and TODOs for future development
