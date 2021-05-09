@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-Currently the website is only available in Polish.
+Feel free to generate password using my website!
 
 ## Screenshots
 <p align="center">
