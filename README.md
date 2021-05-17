@@ -23,6 +23,7 @@ Feel free to generate password using my website!
 * Django - version 3.0
 * Python - version 3.8
 * HTML, CSS
+* Deployed using Heroku
 
 ## Live
 https://whispering-tundra-54870.herokuapp.com/
@@ -33,12 +34,10 @@ List of features ready and TODOs for future development
 * You can choose the length of generated password
 * You can specify whether to add uppercase, special or numeric characters
 
-To-do list:
-* Add english version of the website
 
 
 ## Status
-Project is: _in progress_
+Project is: finished
 
 
 ## Contact
